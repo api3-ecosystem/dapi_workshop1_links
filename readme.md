@@ -39,7 +39,7 @@ More reading on API3:
 
 Looking for help or just want to hang with industry leading developers? Head to the API3 Discord and drop questions in the #dev-support channel: https://discord.gg/api3dao
 
-Also follow us on X: https://x.com/API3DAO
+Follow us on X for latest updates: https://x.com/API3DAO
 
 
 
